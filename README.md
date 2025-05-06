@@ -69,3 +69,21 @@ Here are some ideas to get you started:
 
 ### 🐙 My Github Stats
 ![lionger99-ray GitHub stats](https://github-readme-stats.vercel.app/api?username=lionger99-ray&show_icons=true)
+
+
+<!-- Link Penting:
+Dokumentasi Markdown GitHub
+https://docs.github.com/en/get-starte...
+Banner
+https://github.com/leviarista/github-... 
+Badge
+https://github.com/alexandresanlim/Ba... 
+Icon
+https://github.com/tandpfun/skill-icons 
+Stats
+https://github.com/anuraghazra/github... 
+Profile Generators
+https://gprm.itsvg.in
+https://rahuldkjain.github.io/gh-prof...
+Pacman & Snake
+https://profile-readme-generator.com -->
