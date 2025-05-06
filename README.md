@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 </p>
 
 
----
 
 ## 🧬 About Me
 
@@ -41,7 +40,7 @@ Here are some ideas to get you started:
 🎨 **Motto:** *"Code is art, and I paint with logic."*
 <p align="center"> <img src="https://skillicons.dev/icons?i=laravel,docker,nodejs,tailwind,php,python,mysql,sqlite,git,vscode" /> </p>
 
----
+
 
 <!-- 
 
@@ -68,3 +67,5 @@ Here are some ideas to get you started:
 
 💼 LinkedIn 
 
+### 🐙 My Github Stats
+![lionger99-ray GitHub stats](https://github-readme-stats.vercel.app/api?username=lionger99-ray&show_icons=true)
