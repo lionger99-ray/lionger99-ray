@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 ## 🧬 About Me
 
-<!-- Animasi awal -->
-<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1000&color=00F7FF&width=500&lines=Loading+Lionger99-ray+Profile..." />
-<img align="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=🧑‍💻+Full-stack+Developer;🌐+Based+in+the+Matrix;🚀+Focus:+Web+Dev+%7C+Game+Dev+%7C+AI+%26+Automation;⚙️+Laravel+%7C+Tailwind+%7C+Node.js+%7C+Docker;🎨+%22Code+is+art,+and+I+paint+with+logic.%22" />
+<!-- <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1000&color=00F7FF&width=500&lines=Loading+Lionger99-ray+Profile..." /> -->
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1000&color=00F7FF&width=450&lines=🧑‍💻+Full-stack+Developer;🌐+Based+in+the+Matrix;🚀+Focus:+Web+Dev+%7C+Game+Dev+%7C+AI+%26+Automation;⚙️+Laravel+%7C+Tailwind+%7C+Node.js+%7C+Docker;🎨+%22Code+is+art,+and+I+paint+with+logic.%22" />
+
 
 <!-- Setelah animasi selesai, teks statis -->
 🧑‍💻 **Full-stack Developer**  
