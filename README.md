@@ -70,6 +70,10 @@ Here are some ideas to get you started:
 ### 🐙 My Github Stats
 ![lionger99-ray GitHub stats](https://github-readme-stats.vercel.app/api?username=lionger99-ray&show_icons=true)
 
+<img src="https://raw.githubusercontent.com/lionger99-ray/lionger99-ray/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 <!-- Link Penting:
 Dokumentasi Markdown GitHub
