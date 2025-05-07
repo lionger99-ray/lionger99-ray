@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <h1 align="center">⚡ Lionger99-ray ⚡</h1>
 <!-- <h5 align="center">⌁ Dreaming in Code | Building the Future ⌁</h5> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=25&center=true&vCenter=true&lines=Creative+Developer;Tech+Explorer;Code+Alchemist" />
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=25&center=true&vCenter=true&lines=Creative+Developer;Tech+Explorer;Code+Alchemist" /> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1000&color=00F7FF&width=400&lines=🧑‍💻+Full-stack+Developer;🌐+Based+in+the+Matrix;🚀+Focus:+Web+Dev+%7C+Game+Dev+%7C+AI+%26+Automation;⚙️+Python+%7C+Laravel+%7C+Tailwind+%7C+Node.js+%7C+Docker;🎨+%22Code+is+art,+and+I+paint+with+logic.%22" />
 </p>
 
 
@@ -29,14 +30,14 @@ Here are some ideas to get you started:
 ## 🧬 About Me
 
 <!-- <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1000&color=00F7FF&width=500&lines=Loading+Lionger99-ray+Profile..." /> -->
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=4000&pause=1000&color=00F7FF&width=450&lines=🧑‍💻+Full-stack+Developer;🌐+Based+in+the+Matrix;🚀+Focus:+Web+Dev+%7C+Game+Dev+%7C+AI+%26+Automation;⚙️+Laravel+%7C+Tailwind+%7C+Node.js+%7C+Docker;🎨+%22Code+is+art,+and+I+paint+with+logic.%22" />
+
 
 
 <!-- Setelah animasi selesai, teks statis -->
 🧑‍💻 **Full-stack Developer**  
 🌐 **Based in the Matrix**  
 🚀 **Focus:** Web Dev | Game Dev | AI & Automation  
-⚙️ **Tech Stack:** Laravel | Tailwind CSS | Node.js | Docker  
+⚙️ **Tech Stack:** Python | Laravel | Tailwind CSS | Node.js | Docker  
 🎨 **Motto:** *"Code is art, and I paint with logic."*
 <p align="center"> <img src="https://skillicons.dev/icons?i=laravel,docker,nodejs,tailwind,php,python,mysql,sqlite,git,vscode" /> </p>
 
